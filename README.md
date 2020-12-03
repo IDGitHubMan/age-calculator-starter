@@ -14,12 +14,12 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Add, commit, and push your changes.
 
 ### JavaScript
-- [ ] Create a new variable that stores the user's birth year.
-- [ ] This variable should hold the birth year that the user inputs on the page.
-- [ ] Create a new variable to store the age of the user. 
-- [ ] Calculate the user's age by subtracting their birth year from the year you live in today. Store the result in the age variable.
-- [ ] Append the user's age to the message div.
-- [ ] Add a name input so the app can display a more personalized message.
+- [x] Create a new variable that stores the user's birth year.
+- [x] This variable should hold the birth year that the user inputs on the page.
+- [x] Create a new variable to store the age of the user. 
+- [x] Calculate the user's age by subtracting their birth year from the year you live in today. Store the result in the age variable.
+- [x] Append the user's age to the message div.
+- [x] Add a name input so the app can display a more personalized message.
 
 
 ### Wrap
